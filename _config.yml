@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://ldnrush.github.io" # the base hostname & protocol for your site
 twitter_username: blackhatsquirrl
 github_username:  bhsquirrel
-
+##
 # Build settings
 markdown: kramdown
 permalink: pretty
