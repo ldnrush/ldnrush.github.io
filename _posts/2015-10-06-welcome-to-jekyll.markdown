@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "It's a squirrel"
 date:   2015-10-06 15:39:40
 preview: "https://github.com/blackhatsquirrel/branding/raw/master/squirrel.jpg"
 ---
