@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-10-07 15:39:40
-preview: <img src="http://www.gstatic.com/webp/gallery/1.jpg">
+preview: http://www.gstatic.com/webp/gallery/1.jpg
 ---
 
 ![Picture 1](http://www.gstatic.com/webp/gallery/1.jpg)
