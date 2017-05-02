@@ -13,3 +13,4 @@ github_username:  bhsquirrel
 # Build settings
 markdown: kramdown
 permalink: pretty
+teaser: https://github.com/blackhatsquirrel/branding/blob/master/branding-white.png
