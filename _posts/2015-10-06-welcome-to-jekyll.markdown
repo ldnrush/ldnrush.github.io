@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-10-06 15:39:40
-preview: <img src="https://github.com/blackhatsquirrel/branding/raw/master/squirrel.jpg">
+preview: "https://github.com/blackhatsquirrel/branding/raw/master/squirrel.jpg"
 ---
 
 ![Picture 1](https://github.com/blackhatsquirrel/branding/raw/master/squirrel.jpg)
