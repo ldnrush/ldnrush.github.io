@@ -2,7 +2,7 @@
 layout: post
 title:  "It's a squirrel"
 date:   2015-10-06 15:39:40
-preview: "https://github.com/blackhatsquirrel/branding/raw/master/squirrel.jpg"
+preview: "https://news.artnet.com/app/news-upload/2014/08/2014-08-01-tower-of-london-world-war-i-poppies-paul-cummins-15-256x256.jpg"
 ---
 
 ![Picture 1](https://github.com/blackhatsquirrel/branding/raw/master/squirrel.jpg)
