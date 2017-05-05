@@ -2,7 +2,7 @@
 title: ldnrush
 email: james@blackhatsquirrel.com
 description: > # this means to ignore newlines until "baseurl:"
-  Site description goes here sometimes
+  Site description goes here sometimes innit
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://ldnrush.github.io" # the base hostname & protocol for your site
 twitter_username: blackhatsquirrl
