@@ -2,7 +2,7 @@
 layout: post
 title:  "It's a squirrel"
 date:   2015-10-06 15:39:40
-preview: "https://github.com/blackhatsquirrel/branding/raw/master/squirrel.jpg"
+preview: "http://s4.evcdn.com/images/block/I0-001/038/281/703-5.jpeg_/arlixmeet-2017-london-uk-teen-entrepreneur-confer-03.jpeg"
 ---
 
 ![Picture 1](https://github.com/blackhatsquirrel/branding/raw/master/squirrel.jpg)
